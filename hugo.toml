@@ -1,4 +1,4 @@
-baseURL = "https://kuaisou.github.io/"
+baseURL = "https://kuaisou-tech.github.io/"
 languageCode = "zh-CN"
 title = "Kuaisou | 快搜"
 theme = "PaperMod"
